@@ -45,6 +45,13 @@ a:visited {
   margin-right: 5em;
 }
 
+@media only screen and (max-width: 600px) {
+  .tight {
+    margin-left: 1em;
+    margin-right: 1em;
+  }
+}
+
 .heading {
   color: black;
   border-bottom: 1px dotted #000;
