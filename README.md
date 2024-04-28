@@ -1,3 +1,3 @@
-Website for [adjacentresearch.xyz](https://www.adjacentresearch.xyz) 
+Website for [adj.news](https://adj.news) 
 
-Thank you to t11s for the [style.css](https://github.com/transmissions11/transmissions11.github.io)
+Also longer form thoughts at [https://adjacentresearch.substack.com/](https://adjacentresearch.substack.com/)
